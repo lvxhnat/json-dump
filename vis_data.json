@@ -307,6 +307,18 @@
                     "colname": "level3",
                     "growth_direction": 1.0,
                     "current": "Warning"
+                },
+                {
+                    "name": "Coefficient of Variation of Migration Inflow",
+                    "colname": "level3",
+                    "growth_direction": 1.0,
+                    "current": "Warning"
+                },
+                {
+                    "name": "Market Specific number of foreign arrivals",
+                    "colname": "level3",
+                    "growth_direction": 1.0,
+                    "current": "Warning"
                 }
             ]
         }
