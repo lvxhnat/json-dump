@@ -1,0 +1,279 @@
+{
+    "name": "Accelerating Mental Health Crisis",
+    "children": [
+        {
+            "name": "Slow economic growth",
+            "children": [
+                {
+                    "name": "Employment rate",
+                    "colname": "level3",
+                    "growth_direction": 1.0,
+                    "current": "Stable"
+                },
+                {
+                    "name": "GDP projections",
+                    "colname": "level3",
+                    "growth_direction": 1.0,
+                    "current": "Stable"
+                },
+                {
+                    "name": "GDP figures",
+                    "colname": "level3",
+                    "growth_direction": 1.0,
+                    "current": "Stable"
+                },
+                {
+                    "name": "Disposable Income per capita",
+                    "colname": "level3",
+                    "growth_direction": 1.0,
+                    "current": "Stable"
+                },
+                {
+                    "name": "Real interest rate",
+                    "colname": "level3",
+                    "growth_direction": -1.0,
+                    "current": "Stable"
+                }
+            ]
+        },
+        {
+            "name": "Growing consumer focus on health & wellness",
+            "children": [
+                {
+                    "name": "Recreational Cannabis Market size",
+                    "colname": "level3",
+                    "growth_direction": 1.0,
+                    "current": "Stable"
+                },
+                {
+                    "name": "Wearables and trackers market revenue",
+                    "colname": "level3",
+                    "growth_direction": 1.0,
+                    "current": "Warning"
+                },
+                {
+                    "name": "Consumer search interest in GLP-1s",
+                    "colname": "level3",
+                    "growth_direction": 1.0,
+                    "current": "Warning"
+                },
+                {
+                    "name": "Google Search Interest on Semaglutide topic",
+                    "colname": "level3",
+                    "growth_direction": 1.0,
+                    "current": "Stable"
+                },
+                {
+                    "name": "Supplement market size",
+                    "colname": "level3",
+                    "growth_direction": 1.0,
+                    "current": "Warning"
+                },
+                {
+                    "name": "Organic product food share",
+                    "colname": "level3",
+                    "growth_direction": -1.0,
+                    "current": "Monitor low"
+                }
+            ]
+        },
+        {
+            "name": "Rising children mental health concerns",
+            "children": [
+                {
+                    "name": "Headlines on regulations restricting screen-time for children",
+                    "colname": "level3",
+                    "growth_direction": 1.0,
+                    "current": "Stable"
+                },
+                {
+                    "name": "Academic papers on correlation between screen time among children and mental health issues",
+                    "colname": "level3",
+                    "growth_direction": 1.0,
+                    "current": "Warning"
+                },
+                {
+                    "name": "Headlines on cyber bullying cases among school-aged children",
+                    "colname": "level3",
+                    "growth_direction": 1.0,
+                    "current": "Stable"
+                },
+                {
+                    "name": "Academic papers on children loneliness",
+                    "colname": "level3",
+                    "growth_direction": 1.0,
+                    "current": "Warning"
+                },
+                {
+                    "name": "Headlines on mental health programs in school",
+                    "colname": "level3",
+                    "growth_direction": 1.0,
+                    "current": "Stable"
+                }
+            ]
+        },
+        {
+            "name": "Loneliness epidemic",
+            "children": [
+                {
+                    "name": "Academic paper on loneliness",
+                    "colname": "level3",
+                    "growth_direction": 1.0,
+                    "current": "Stable"
+                },
+                {
+                    "name": "Pet food market size",
+                    "colname": "level3",
+                    "growth_direction": 1.0,
+                    "current": "Stable"
+                },
+                {
+                    "name": "Time spent online",
+                    "colname": "level3",
+                    "growth_direction": -1.0,
+                    "current": "Monitor low"
+                },
+                {
+                    "name": "News coverage of events that propel loneliness (lockdowns, curfews)",
+                    "colname": "level3",
+                    "growth_direction": -1.0,
+                    "current": "Stable"
+                },
+                {
+                    "name": "Google search interest on loneliness",
+                    "colname": "level3",
+                    "growth_direction": -1.0,
+                    "current": "Stable"
+                }
+            ]
+        },
+        {
+            "name": "Greater understanding of mental health",
+            "children": [
+                {
+                    "name": "Number of users of health & wellness coaching apps (Meditation, fitness & nutrition)",
+                    "colname": "level3",
+                    "growth_direction": 1.0,
+                    "current": "Monitor low"
+                },
+                {
+                    "name": "News on work-life balance, reduction of working hours, 4-day work weeks.",
+                    "colname": "level3",
+                    "growth_direction": 1.0,
+                    "current": "Stable"
+                },
+                {
+                    "name": "Market size of mental health related products",
+                    "colname": "level3",
+                    "growth_direction": 1.0,
+                    "current": "Stable"
+                },
+                {
+                    "name": "Number of academic paper related with Stress, Anxiety and Mental Health",
+                    "colname": "level3",
+                    "growth_direction": 1.0,
+                    "current": "Stable"
+                },
+                {
+                    "name": "Google search interest on Holiday & Vacation",
+                    "colname": "level3",
+                    "growth_direction": -1.0,
+                    "current": "Monitor low"
+                }
+            ]
+        },
+        {
+            "name": "Increasing noise + light pollution",
+            "children": [
+                {
+                    "name": "Papers covering impact of noise and light pollution",
+                    "colname": "level3",
+                    "growth_direction": 1.0,
+                    "current": "Stable"
+                },
+                {
+                    "name": "Energy Consumption per Capita",
+                    "colname": "level3",
+                    "growth_direction": 1.0,
+                    "current": "Stable"
+                },
+                {
+                    "name": "Rising urbanisation rates",
+                    "colname": "level3",
+                    "growth_direction": 1.0,
+                    "current": "Stable"
+                },
+                {
+                    "name": "Sky Brightness Monitoring Network",
+                    "colname": "level3",
+                    "growth_direction": -1.0,
+                    "current": "Stable"
+                }
+            ]
+        },
+        {
+            "name": "Rising stress levels",
+            "children": [
+                {
+                    "name": "News on financial insecurity, retrenchment and layoffs",
+                    "colname": "level3",
+                    "growth_direction": 1.0,
+                    "current": "Monitor low"
+                },
+                {
+                    "name": "News on work-life balance, reduction of working hours, 4-day work weeks.",
+                    "colname": "level3",
+                    "growth_direction": 1.0,
+                    "current": "Stable"
+                },
+                {
+                    "name": "Number of academic paper related with Stress, Anxiety and Mental Health",
+                    "colname": "level3",
+                    "growth_direction": 1.0,
+                    "current": "Stable"
+                },
+                {
+                    "name": "Gallup stress level survey. Negative Experience Index",
+                    "colname": "level3",
+                    "growth_direction": -1.0,
+                    "current": "Monitor low"
+                },
+                {
+                    "name": "Household debts",
+                    "colname": "level3",
+                    "growth_direction": -1.0,
+                    "current": "Monitor low"
+                }
+            ]
+        },
+        {
+            "name": "Ongoing lack of healthcare access",
+            "children": [
+                {
+                    "name": "Physician per 1000 habitat",
+                    "colname": "level3",
+                    "growth_direction": 1.0,
+                    "current": "Stable"
+                },
+                {
+                    "name": "% of GDP spent in health",
+                    "colname": "level3",
+                    "growth_direction": 1.0,
+                    "current": "Stable"
+                },
+                {
+                    "name": "News coverage around healthcare failings (protests, lack of resources, closures, underfunding)",
+                    "colname": "level3",
+                    "growth_direction": 1.0,
+                    "current": "Stable"
+                },
+                {
+                    "name": "Hospital beds per capita",
+                    "colname": "level3",
+                    "growth_direction": -1.0,
+                    "current": "Stable"
+                }
+            ]
+        }
+    ]
+}
