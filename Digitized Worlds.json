@@ -2,6 +2,41 @@
     "name": "Digitized Worlds",
     "children": [
         {
+            "name": "Growing application of ai",
+            "children": [
+                {
+                    "name": "Annual investment on startup tagged to explainable AI (xAI)",
+                    "colname": "level3",
+                    "growth_direction": 1.0,
+                    "current": "Warning"
+                },
+                {
+                    "name": "Papers: AI applications for non-mainstream users for elders vs AI for kids vs AI for marginalised communities",
+                    "colname": "level3",
+                    "growth_direction": 1.0,
+                    "current": "Stable"
+                },
+                {
+                    "name": "Google scholar research on AI impacts",
+                    "colname": "level3",
+                    "growth_direction": 1.0,
+                    "current": "Monitor"
+                },
+                {
+                    "name": "News about AI regulation, boycotts, concerns",
+                    "colname": "level3",
+                    "growth_direction": 1.0,
+                    "current": "Stable"
+                },
+                {
+                    "name": "AI Market Size",
+                    "colname": "level3",
+                    "growth_direction": -1.0,
+                    "current": "Monitor low"
+                }
+            ]
+        },
+        {
             "name": "Regulation of big tech",
             "children": [
                 {
