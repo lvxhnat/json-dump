@@ -1,0 +1,227 @@
+{
+    "name": "Widening Economic Chasms",
+    "children": [
+        {
+            "name": "Slow economic growth",
+            "children": [
+                {
+                    "name": "Employment rate",
+                    "colname": "level3",
+                    "growth_direction": 1.0,
+                    "current": "Stable"
+                },
+                {
+                    "name": "GDP projections",
+                    "colname": "level3",
+                    "growth_direction": 1.0,
+                    "current": "Stable"
+                },
+                {
+                    "name": "GDP figures",
+                    "colname": "level3",
+                    "growth_direction": 1.0,
+                    "current": "Stable"
+                },
+                {
+                    "name": "Disposable Income per capita",
+                    "colname": "level3",
+                    "growth_direction": 1.0,
+                    "current": "Stable"
+                },
+                {
+                    "name": "Real interest rate",
+                    "colname": "level3",
+                    "growth_direction": -1.0,
+                    "current": "Stable"
+                }
+            ]
+        },
+        {
+            "name": "Shifting middle class in mature and emerging markets",
+            "children": [
+                {
+                    "name": "Foreign direct investment net inflows",
+                    "colname": "level3",
+                    "growth_direction": 1.0,
+                    "current": "Monitor low"
+                },
+                {
+                    "name": "Disposable Income per capita",
+                    "colname": "level3",
+                    "growth_direction": 1.0,
+                    "current": "Stable"
+                },
+                {
+                    "name": "Rising tertiary education",
+                    "colname": "level3",
+                    "growth_direction": 1.0,
+                    "current": "Stable"
+                },
+                {
+                    "name": "Proportion of population in income bracket >10000 PPP dollars",
+                    "colname": "level3",
+                    "growth_direction": -1.0,
+                    "current": "Monitor low"
+                },
+                {
+                    "name": "Population living below poverty line, $3.20 a day",
+                    "colname": "level3",
+                    "growth_direction": -1.0,
+                    "current": "Stable"
+                }
+            ]
+        },
+        {
+            "name": "Rise of economic inequality in and between countries",
+            "children": [
+                {
+                    "name": "News about labour laws, employment protections, trade unions",
+                    "colname": "level3",
+                    "growth_direction": 1.0,
+                    "current": "Stable"
+                },
+                {
+                    "name": "Income share of the richest 1% (before tax)",
+                    "colname": "level3",
+                    "growth_direction": 1.0,
+                    "current": "Monitor low"
+                },
+                {
+                    "name": "Average annual hours actually worked per worker",
+                    "colname": "level3",
+                    "growth_direction": 1.0,
+                    "current": "Monitor low"
+                },
+                {
+                    "name": "Gini coefficient",
+                    "colname": "level3",
+                    "growth_direction": -1.0,
+                    "current": "Stable"
+                },
+                {
+                    "name": "Social expenditure",
+                    "colname": "level3",
+                    "growth_direction": -1.0,
+                    "current": "Monitor low"
+                }
+            ]
+        },
+        {
+            "name": "Growing influence of emerging markets",
+            "children": [
+                {
+                    "name": "News about global south encounters (G77, BRICS...)",
+                    "colname": "level3",
+                    "growth_direction": 1.0,
+                    "current": "Monitor low"
+                },
+                {
+                    "name": "Trade volumes from emerging markets",
+                    "colname": "level3",
+                    "growth_direction": 1.0,
+                    "current": "Warning"
+                },
+                {
+                    "name": "Economy Policy Uncertainty",
+                    "colname": "level3",
+                    "growth_direction": 1.0,
+                    "current": "Monitor low"
+                },
+                {
+                    "name": "FDI into emerging markets",
+                    "colname": "level3",
+                    "growth_direction": -1.0,
+                    "current": "Monitor low"
+                },
+                {
+                    "name": "Global GDP share held by non-high income country",
+                    "colname": "level3",
+                    "growth_direction": -1.0,
+                    "current": "Monitor low"
+                }
+            ]
+        },
+        {
+            "name": "Growing destabilization of trade relationships",
+            "children": [
+                {
+                    "name": "Exports of goods and services (current US$)",
+                    "colname": "level3",
+                    "growth_direction": 1.0,
+                    "current": "Stable"
+                },
+                {
+                    "name": "Economy Policy Uncertainty",
+                    "colname": "level3",
+                    "growth_direction": 1.0,
+                    "current": "Monitor low"
+                },
+                {
+                    "name": "World Uncertainty Index",
+                    "colname": "level3",
+                    "growth_direction": -1.0,
+                    "current": "Stable"
+                },
+                {
+                    "name": "Third party logistics cost",
+                    "colname": "level3",
+                    "growth_direction": -1.0,
+                    "current": "Monitor low"
+                },
+                {
+                    "name": "Global supply chain pressure index",
+                    "colname": "level3",
+                    "growth_direction": -1.0,
+                    "current": "Stable"
+                }
+            ]
+        },
+        {
+            "name": "Rising inflation and cost of living crisis",
+            "children": [
+                {
+                    "name": "Consumer Spending on Transportation",
+                    "colname": "level3",
+                    "growth_direction": 1.0,
+                    "current": "Stable"
+                },
+                {
+                    "name": "Producer Price index",
+                    "colname": "level3",
+                    "growth_direction": 1.0,
+                    "current": "Stable"
+                },
+                {
+                    "name": "Consumer Confidence Levels",
+                    "colname": "level3",
+                    "growth_direction": -1.0,
+                    "current": "Stable"
+                },
+                {
+                    "name": "Monthly fuel energy price index",
+                    "colname": "level3",
+                    "growth_direction": -1.0,
+                    "current": "Monitor low"
+                },
+                {
+                    "name": "Consumer Price Index",
+                    "colname": "level3",
+                    "growth_direction": -1.0,
+                    "current": "Stable"
+                },
+                {
+                    "name": "Household debts",
+                    "colname": "level3",
+                    "growth_direction": -1.0,
+                    "current": "Monitor low"
+                },
+                {
+                    "name": "National interest rates",
+                    "colname": "level3",
+                    "growth_direction": -1.0,
+                    "current": "Stable"
+                }
+            ]
+        }
+    ]
+}
