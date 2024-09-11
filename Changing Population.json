@@ -303,6 +303,12 @@
                     "current": "Warning"
                 },
                 {
+                    "name": "Coefficient of Variation of Migration Inflow",
+                    "colname": "level3",
+                    "growth_direction": 1.0,
+                    "current": "Warning"
+                },
+                {
                     "name": "Headlines on Easing of Migration Policies",
                     "colname": "level3",
                     "growth_direction": -1.0,
@@ -310,12 +316,6 @@
                 },
                 {
                     "name": "Google Search Interest for Visa Applications",
-                    "colname": "level3",
-                    "growth_direction": 1.0,
-                    "current": "Stable"
-                },
-                {
-                    "name": "Coefficient of Variation of Migration Inflow",
                     "colname": "level3",
                     "growth_direction": 1.0,
                     "current": "Stable"
