@@ -78,41 +78,6 @@
             ]
         },
         {
-            "name": "The next big migration",
-            "children": [
-                {
-                    "name": "Coefficient of Variation of Migration Inflow",
-                    "colname": "level3",
-                    "growth_direction": 1.0,
-                    "current": "Warning"
-                },
-                {
-                    "name": "Market Specific number of foreign arrivals",
-                    "colname": "level3",
-                    "growth_direction": 1.0,
-                    "current": "Warning"
-                },
-                {
-                    "name": "Remittances sent overseas",
-                    "colname": "level3",
-                    "growth_direction": 1.0,
-                    "current": "Warning"
-                },
-                {
-                    "name": "Google Search Interest for Visa Applications",
-                    "colname": "level3",
-                    "growth_direction": 1.0,
-                    "current": "Stable"
-                },
-                {
-                    "name": "Headlines on Easing of Migration Policies",
-                    "colname": "level3",
-                    "growth_direction": -1.0,
-                    "current": "Monitor low"
-                }
-            ]
-        },
-        {
             "name": "Aging population and impact across markets",
             "children": [
                 {
@@ -141,6 +106,41 @@
                 },
                 {
                     "name": "Age support ratio / age dependency ratio",
+                    "colname": "level3",
+                    "growth_direction": -1.0,
+                    "current": "Monitor low"
+                }
+            ]
+        },
+        {
+            "name": "The next big migration",
+            "children": [
+                {
+                    "name": "Market Specific number of foreign arrivals",
+                    "colname": "level3",
+                    "growth_direction": 1.0,
+                    "current": "Warning"
+                },
+                {
+                    "name": "Remittances sent overseas",
+                    "colname": "level3",
+                    "growth_direction": 1.0,
+                    "current": "Warning"
+                },
+                {
+                    "name": "Google Search Interest for Visa Applications",
+                    "colname": "level3",
+                    "growth_direction": 1.0,
+                    "current": "Stable"
+                },
+                {
+                    "name": "Coefficient of Variation of Migration Inflow",
+                    "colname": "level3",
+                    "growth_direction": 1.0,
+                    "current": "Stable"
+                },
+                {
+                    "name": "Headlines on Easing of Migration Policies",
                     "colname": "level3",
                     "growth_direction": -1.0,
                     "current": "Monitor low"
