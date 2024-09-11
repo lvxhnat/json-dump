@@ -2,34 +2,34 @@
     "name": "Changing Population",
     "children": [
         {
-            "name": "Growing consumer focus on health & wellness",
+            "name": "Aging population and impact across markets",
             "children": [
                 {
-                    "name": "Consumer search interest in GLP-1s",
-                    "colname": "level3",
-                    "growth_direction": 1.0,
-                    "current": "Warning"
-                },
-                {
-                    "name": "Supplement market size",
-                    "colname": "level3",
-                    "growth_direction": 1.0,
-                    "current": "Warning"
-                },
-                {
-                    "name": "Wearables and trackers market revenue",
-                    "colname": "level3",
-                    "growth_direction": 1.0,
-                    "current": "Warning"
-                },
-                {
-                    "name": "Organic product food share",
+                    "name": "Age support ratio / age dependency ratio",
                     "colname": "level3",
                     "growth_direction": -1.0,
                     "current": "Monitor low"
                 },
                 {
-                    "name": "Google Search Interest on Semaglutide topic",
+                    "name": "total asset pension as % of GDP",
+                    "colname": "level3",
+                    "growth_direction": 1.0,
+                    "current": "Monitor low"
+                },
+                {
+                    "name": "Search interest around ageing symptoms",
+                    "colname": "level3",
+                    "growth_direction": 1.0,
+                    "current": "Stable"
+                },
+                {
+                    "name": "Population ages 65 and above (% of total population)",
+                    "colname": "level3",
+                    "growth_direction": 1.0,
+                    "current": "Stable"
+                },
+                {
+                    "name": "Growing market size of care robots",
                     "colname": "level3",
                     "growth_direction": 1.0,
                     "current": "Stable"
@@ -37,34 +37,34 @@
             ]
         },
         {
-            "name": "The next big migration",
+            "name": "Changing household structures and relationship models",
             "children": [
                 {
-                    "name": "Market Specific number of foreign arrivals",
-                    "colname": "level3",
-                    "growth_direction": 1.0,
-                    "current": "Warning"
-                },
-                {
-                    "name": "Remittances sent overseas",
-                    "colname": "level3",
-                    "growth_direction": 1.0,
-                    "current": "Warning"
-                },
-                {
-                    "name": "Headlines on Easing of Migration Policies",
+                    "name": "Average household size",
                     "colname": "level3",
                     "growth_direction": -1.0,
-                    "current": "Monitor low"
+                    "current": "Stable"
                 },
                 {
-                    "name": "Google Search Interest for Visa Applications",
+                    "name": "Fertility rate",
+                    "colname": "level3",
+                    "growth_direction": -1.0,
+                    "current": "Stable"
+                },
+                {
+                    "name": "Elderly dating app search",
                     "colname": "level3",
                     "growth_direction": 1.0,
                     "current": "Stable"
                 },
                 {
-                    "name": "Coefficient of Variation of Migration Inflow",
+                    "name": "Google search interest on Maid topic",
+                    "colname": "level3",
+                    "growth_direction": -1.0,
+                    "current": "Stable"
+                },
+                {
+                    "name": "Google search on co-living, housesharing, inclusive living",
                     "colname": "level3",
                     "growth_direction": 1.0,
                     "current": "Stable"
@@ -72,34 +72,34 @@
             ]
         },
         {
-            "name": "Growing application of ai",
+            "name": "Constant and ubiquitous social connectivity",
             "children": [
                 {
-                    "name": "Annual investment on startup tagged to explainable AI (xAI)",
+                    "name": "IOT market size",
                     "colname": "level3",
                     "growth_direction": 1.0,
                     "current": "Warning"
                 },
                 {
-                    "name": "AI Market Size",
+                    "name": "Smartphone market size",
                     "colname": "level3",
                     "growth_direction": 1.0,
                     "current": "Monitor"
                 },
                 {
-                    "name": "Google scholar research on AI impacts",
+                    "name": "Time spent online",
                     "colname": "level3",
-                    "growth_direction": 1.0,
-                    "current": "Monitor"
+                    "growth_direction": -1.0,
+                    "current": "Monitor low"
                 },
                 {
-                    "name": "Papers: AI applications for non-mainstream users for elders vs AI for kids vs AI for marginalised communities",
+                    "name": "Influencer advertising market size",
                     "colname": "level3",
                     "growth_direction": 1.0,
                     "current": "Stable"
                 },
                 {
-                    "name": "News about AI regulation, boycotts, concerns",
+                    "name": "Social Networking app downloads",
                     "colname": "level3",
                     "growth_direction": 1.0,
                     "current": "Stable"
@@ -148,34 +148,69 @@
             ]
         },
         {
-            "name": "Constant and ubiquitous social connectivity",
+            "name": "Growing application of ai",
             "children": [
                 {
-                    "name": "IOT market size",
+                    "name": "Annual investment on startup tagged to explainable AI (xAI)",
                     "colname": "level3",
                     "growth_direction": 1.0,
                     "current": "Warning"
                 },
                 {
-                    "name": "Time spent online",
-                    "colname": "level3",
-                    "growth_direction": -1.0,
-                    "current": "Monitor low"
-                },
-                {
-                    "name": "Smartphone market size",
+                    "name": "Google scholar research on AI impacts",
                     "colname": "level3",
                     "growth_direction": 1.0,
                     "current": "Monitor"
                 },
                 {
-                    "name": "Influencer advertising market size",
+                    "name": "AI Market Size",
+                    "colname": "level3",
+                    "growth_direction": 1.0,
+                    "current": "Monitor"
+                },
+                {
+                    "name": "News about AI regulation, boycotts, concerns",
                     "colname": "level3",
                     "growth_direction": 1.0,
                     "current": "Stable"
                 },
                 {
-                    "name": "Social Networking app downloads",
+                    "name": "Papers: AI applications for non-mainstream users for elders vs AI for kids vs AI for marginalised communities",
+                    "colname": "level3",
+                    "growth_direction": 1.0,
+                    "current": "Stable"
+                }
+            ]
+        },
+        {
+            "name": "Growing consumer focus on health & wellness",
+            "children": [
+                {
+                    "name": "Wearables and trackers market revenue",
+                    "colname": "level3",
+                    "growth_direction": 1.0,
+                    "current": "Warning"
+                },
+                {
+                    "name": "Consumer search interest in GLP-1s",
+                    "colname": "level3",
+                    "growth_direction": 1.0,
+                    "current": "Warning"
+                },
+                {
+                    "name": "Supplement market size",
+                    "colname": "level3",
+                    "growth_direction": 1.0,
+                    "current": "Warning"
+                },
+                {
+                    "name": "Organic product food share",
+                    "colname": "level3",
+                    "growth_direction": -1.0,
+                    "current": "Monitor low"
+                },
+                {
+                    "name": "Google Search Interest on Semaglutide topic",
                     "colname": "level3",
                     "growth_direction": 1.0,
                     "current": "Stable"
@@ -192,15 +227,9 @@
                     "current": "Monitor low"
                 },
                 {
-                    "name": "Pet food market size",
+                    "name": "Academic paper on loneliness",
                     "colname": "level3",
                     "growth_direction": 1.0,
-                    "current": "Stable"
-                },
-                {
-                    "name": "News coverage of events that propel loneliness (lockdowns, curfews)",
-                    "colname": "level3",
-                    "growth_direction": -1.0,
                     "current": "Stable"
                 },
                 {
@@ -210,7 +239,13 @@
                     "current": "Stable"
                 },
                 {
-                    "name": "Academic paper on loneliness",
+                    "name": "News coverage of events that propel loneliness (lockdowns, curfews)",
+                    "colname": "level3",
+                    "growth_direction": -1.0,
+                    "current": "Stable"
+                },
+                {
+                    "name": "Pet food market size",
                     "colname": "level3",
                     "growth_direction": 1.0,
                     "current": "Stable"
@@ -253,69 +288,34 @@
             ]
         },
         {
-            "name": "Aging population and impact across markets",
+            "name": "The next big migration",
             "children": [
                 {
-                    "name": "total asset pension as % of GDP",
+                    "name": "Remittances sent overseas",
                     "colname": "level3",
                     "growth_direction": 1.0,
+                    "current": "Warning"
+                },
+                {
+                    "name": "Market Specific number of foreign arrivals",
+                    "colname": "level3",
+                    "growth_direction": 1.0,
+                    "current": "Warning"
+                },
+                {
+                    "name": "Headlines on Easing of Migration Policies",
+                    "colname": "level3",
+                    "growth_direction": -1.0,
                     "current": "Monitor low"
                 },
                 {
-                    "name": "Age support ratio / age dependency ratio",
-                    "colname": "level3",
-                    "growth_direction": -1.0,
-                    "current": "Monitor low"
-                },
-                {
-                    "name": "Search interest around ageing symptoms",
+                    "name": "Google Search Interest for Visa Applications",
                     "colname": "level3",
                     "growth_direction": 1.0,
                     "current": "Stable"
                 },
                 {
-                    "name": "Growing market size of care robots",
-                    "colname": "level3",
-                    "growth_direction": 1.0,
-                    "current": "Stable"
-                },
-                {
-                    "name": "Population ages 65 and above (% of total population)",
-                    "colname": "level3",
-                    "growth_direction": 1.0,
-                    "current": "Stable"
-                }
-            ]
-        },
-        {
-            "name": "Changing household structures and relationship models",
-            "children": [
-                {
-                    "name": "Average household size",
-                    "colname": "level3",
-                    "growth_direction": -1.0,
-                    "current": "Stable"
-                },
-                {
-                    "name": "Fertility rate",
-                    "colname": "level3",
-                    "growth_direction": -1.0,
-                    "current": "Stable"
-                },
-                {
-                    "name": "Elderly dating app search",
-                    "colname": "level3",
-                    "growth_direction": 1.0,
-                    "current": "Stable"
-                },
-                {
-                    "name": "Google search interest on Maid topic",
-                    "colname": "level3",
-                    "growth_direction": -1.0,
-                    "current": "Stable"
-                },
-                {
-                    "name": "Google search on co-living, housesharing, inclusive living",
+                    "name": "Coefficient of Variation of Migration Inflow",
                     "colname": "level3",
                     "growth_direction": 1.0,
                     "current": "Stable"
