@@ -2,6 +2,35 @@
     "name": "Digitized Worlds",
     "children": [
         {
+            "name": "Evolution of data security and privacy laws",
+            "children": [
+                {
+                    "name": "Number of laws on data security and privacy laws",
+                    "colname": "level3",
+                    "growth_direction": -1.0,
+                    "current": "Monitor low"
+                },
+                {
+                    "name": "public awareness and concern: number of news articles on data security and privacy concerns",
+                    "colname": "level3",
+                    "growth_direction": 1.0,
+                    "current": "Monitor"
+                },
+                {
+                    "name": "Number of startups in cybersecurity",
+                    "colname": "level3",
+                    "growth_direction": -1.0,
+                    "current": "Stable"
+                },
+                {
+                    "name": "number of data breaches/ cyber crimes/ affected users per year",
+                    "colname": "level3",
+                    "growth_direction": 1.0,
+                    "current": "Stable"
+                }
+            ]
+        },
+        {
             "name": "Growing application of ai",
             "children": [
                 {
@@ -11,10 +40,10 @@
                     "current": "Warning"
                 },
                 {
-                    "name": "Papers: AI applications for non-mainstream users for elders vs AI for kids vs AI for marginalised communities",
+                    "name": "AI Market Size",
                     "colname": "level3",
                     "growth_direction": 1.0,
-                    "current": "Stable"
+                    "current": "Monitor"
                 },
                 {
                     "name": "Google scholar research on AI impacts",
@@ -29,10 +58,45 @@
                     "current": "Stable"
                 },
                 {
-                    "name": "AI Market Size",
+                    "name": "Papers: AI applications for non-mainstream users for elders vs AI for kids vs AI for marginalised communities",
+                    "colname": "level3",
+                    "growth_direction": 1.0,
+                    "current": "Stable"
+                }
+            ]
+        },
+        {
+            "name": "Proliferation of digital assets",
+            "children": [
+                {
+                    "name": "Consumer search data on digital assets (Crypto, NFTs)",
                     "colname": "level3",
                     "growth_direction": -1.0,
                     "current": "Monitor low"
+                },
+                {
+                    "name": "Market size of crypto currencies",
+                    "colname": "level3",
+                    "growth_direction": 1.0,
+                    "current": "Monitor"
+                },
+                {
+                    "name": "Market size of cloud storage",
+                    "colname": "level3",
+                    "growth_direction": 1.0,
+                    "current": "Stable"
+                },
+                {
+                    "name": "Global crypto adoption index",
+                    "colname": "level3",
+                    "growth_direction": -1.0,
+                    "current": "Stable"
+                },
+                {
+                    "name": "Market size of digital media (ebooks, video games, digital music)",
+                    "colname": "level3",
+                    "growth_direction": 1.0,
+                    "current": "Stable"
                 }
             ]
         },
@@ -52,6 +116,12 @@
                     "current": "Monitor low"
                 },
                 {
+                    "name": "Number of regulations in tech",
+                    "colname": "level3",
+                    "growth_direction": -1.0,
+                    "current": "Monitor low"
+                },
+                {
                     "name": "No. of antitrust case (regulations count)",
                     "colname": "level3",
                     "growth_direction": -1.0,
@@ -62,88 +132,12 @@
                     "colname": "level3",
                     "growth_direction": -1.0,
                     "current": "Stable"
-                },
-                {
-                    "name": "Number of regulations in tech",
-                    "colname": "level3",
-                    "growth_direction": -1.0,
-                    "current": "Monitor low"
-                }
-            ]
-        },
-        {
-            "name": "Proliferation of digital assets",
-            "children": [
-                {
-                    "name": "Market size of crypto currencies",
-                    "colname": "level3",
-                    "growth_direction": 1.0,
-                    "current": "Monitor"
-                },
-                {
-                    "name": "Market size of digital media (ebooks, video games, digital music)",
-                    "colname": "level3",
-                    "growth_direction": 1.0,
-                    "current": "Stable"
-                },
-                {
-                    "name": "Market size of cloud storage",
-                    "colname": "level3",
-                    "growth_direction": 1.0,
-                    "current": "Stable"
-                },
-                {
-                    "name": "Global crypto adoption index",
-                    "colname": "level3",
-                    "growth_direction": -1.0,
-                    "current": "Stable"
-                },
-                {
-                    "name": "Consumer search data on digital assets (Crypto, NFTs)",
-                    "colname": "level3",
-                    "growth_direction": -1.0,
-                    "current": "Monitor low"
-                }
-            ]
-        },
-        {
-            "name": "Evolution of data security and privacy laws",
-            "children": [
-                {
-                    "name": "number of data breaches/ cyber crimes/ affected users per year",
-                    "colname": "level3",
-                    "growth_direction": 1.0,
-                    "current": "Stable"
-                },
-                {
-                    "name": "public awareness and concern: number of news articles on data security and privacy concerns",
-                    "colname": "level3",
-                    "growth_direction": 1.0,
-                    "current": "Monitor"
-                },
-                {
-                    "name": "Number of startups in cybersecurity",
-                    "colname": "level3",
-                    "growth_direction": -1.0,
-                    "current": "Stable"
-                },
-                {
-                    "name": "Number of laws on data security and privacy laws",
-                    "colname": "level3",
-                    "growth_direction": -1.0,
-                    "current": "Monitor low"
                 }
             ]
         },
         {
             "name": "Rise of ar, vr and mixed reality",
             "children": [
-                {
-                    "name": "AR & VR market penetration (% of users )",
-                    "colname": "level3",
-                    "growth_direction": 1.0,
-                    "current": "Stable"
-                },
                 {
                     "name": "Market size of AR & VR",
                     "colname": "level3",
@@ -167,6 +161,47 @@
                     "colname": "level3",
                     "growth_direction": -1.0,
                     "current": "Monitor low"
+                },
+                {
+                    "name": "AR & VR market penetration (% of users )",
+                    "colname": "level3",
+                    "growth_direction": 1.0,
+                    "current": "Stable"
+                }
+            ]
+        },
+        {
+            "name": "Rise of precarious employment",
+            "children": [
+                {
+                    "name": "Total unfilled job vacancies",
+                    "colname": "level3",
+                    "growth_direction": -1.0,
+                    "current": "Monitor low"
+                },
+                {
+                    "name": "News about labour laws, employment protections, trade unions",
+                    "colname": "level3",
+                    "growth_direction": 1.0,
+                    "current": "Stable"
+                },
+                {
+                    "name": "Annual working hours per worker",
+                    "colname": "level3",
+                    "growth_direction": -1.0,
+                    "current": "Stable"
+                },
+                {
+                    "name": "Unemployment rates",
+                    "colname": "level3",
+                    "growth_direction": -1.0,
+                    "current": "Stable"
+                },
+                {
+                    "name": "News around the gig economy",
+                    "colname": "level3",
+                    "growth_direction": 1.0,
+                    "current": "Stable"
                 }
             ]
         },
@@ -178,18 +213,6 @@
                     "colname": "level3",
                     "growth_direction": 1.0,
                     "current": "Warning"
-                },
-                {
-                    "name": "Market size of smart homes, wearables",
-                    "colname": "level3",
-                    "growth_direction": 1.0,
-                    "current": "Monitor"
-                },
-                {
-                    "name": "News articles on smart homes",
-                    "colname": "level3",
-                    "growth_direction": 1.0,
-                    "current": "Monitor"
                 },
                 {
                     "name": "% uptake of fitness trackers, smart watches, wearables",
@@ -204,42 +227,19 @@
                     "current": "Monitor low"
                 },
                 {
+                    "name": "News articles on smart homes",
+                    "colname": "level3",
+                    "growth_direction": 1.0,
+                    "current": "Monitor"
+                },
+                {
+                    "name": "Market size of smart homes, wearables",
+                    "colname": "level3",
+                    "growth_direction": 1.0,
+                    "current": "Monitor"
+                },
+                {
                     "name": "Autonomous & Sensor Technology Market Size",
-                    "colname": "level3",
-                    "growth_direction": -1.0,
-                    "current": "Stable"
-                }
-            ]
-        },
-        {
-            "name": "Rise of precarious employment",
-            "children": [
-                {
-                    "name": "News about labour laws, employment protections, trade unions",
-                    "colname": "level3",
-                    "growth_direction": 1.0,
-                    "current": "Stable"
-                },
-                {
-                    "name": "News around the gig economy",
-                    "colname": "level3",
-                    "growth_direction": 1.0,
-                    "current": "Stable"
-                },
-                {
-                    "name": "Annual working hours per worker",
-                    "colname": "level3",
-                    "growth_direction": -1.0,
-                    "current": "Stable"
-                },
-                {
-                    "name": "Total unfilled job vacancies",
-                    "colname": "level3",
-                    "growth_direction": -1.0,
-                    "current": "Monitor low"
-                },
-                {
-                    "name": "Unemployment rates",
                     "colname": "level3",
                     "growth_direction": -1.0,
                     "current": "Stable"
