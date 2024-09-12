@@ -2,49 +2,14 @@
     "name": "Evolving House Structure",
     "children": [
         {
-            "name": "Flexible lifestage trajectories",
-            "children": [
-                {
-                    "name": "Employment rate by age group (55-64 years group)",
-                    "colname": "level3",
-                    "growth_direction": 1.0,
-                    "current": "Warning"
-                },
-                {
-                    "name": "Search interest: Egg freezing",
-                    "colname": "level3",
-                    "growth_direction": 1.0,
-                    "current": "Stable"
-                },
-                {
-                    "name": "Market size of online / non-tertiary education",
-                    "colname": "level3",
-                    "growth_direction": 1.0,
-                    "current": "Stable"
-                },
-                {
-                    "name": "Market size of online / non-tertiary education",
-                    "colname": "level3",
-                    "growth_direction": 1.0,
-                    "current": "Stable"
-                },
-                {
-                    "name": "News around career shift and flexible work",
-                    "colname": "level3",
-                    "growth_direction": 1.0,
-                    "current": "Stable"
-                },
-                {
-                    "name": "Unmarried to married ratio",
-                    "colname": "level3",
-                    "growth_direction": -1.0,
-                    "current": "Stable"
-                }
-            ]
-        },
-        {
             "name": "Aging population and impact across markets",
             "children": [
+                {
+                    "name": "Age support ratio / age dependency ratio",
+                    "colname": "level3",
+                    "growth_direction": -1.0,
+                    "current": "Monitor low"
+                },
                 {
                     "name": "total asset pension as % of GDP",
                     "colname": "level3",
@@ -68,12 +33,6 @@
                     "colname": "level3",
                     "growth_direction": 1.0,
                     "current": "Stable"
-                },
-                {
-                    "name": "Age support ratio / age dependency ratio",
-                    "colname": "level3",
-                    "growth_direction": -1.0,
-                    "current": "Monitor low"
                 }
             ]
         },
@@ -81,15 +40,9 @@
             "name": "Changing household structures and relationship models",
             "children": [
                 {
-                    "name": "Elderly dating app search",
+                    "name": "Google search interest on Maid topic",
                     "colname": "level3",
-                    "growth_direction": 1.0,
-                    "current": "Stable"
-                },
-                {
-                    "name": "Google search on co-living, housesharing, inclusive living",
-                    "colname": "level3",
-                    "growth_direction": 1.0,
+                    "growth_direction": -1.0,
                     "current": "Stable"
                 },
                 {
@@ -99,15 +52,62 @@
                     "current": "Stable"
                 },
                 {
+                    "name": "Google search on co-living, housesharing, inclusive living",
+                    "colname": "level3",
+                    "growth_direction": 1.0,
+                    "current": "Stable"
+                },
+                {
+                    "name": "Elderly dating app search",
+                    "colname": "level3",
+                    "growth_direction": 1.0,
+                    "current": "Stable"
+                },
+                {
                     "name": "Fertility rate",
+                    "colname": "level3",
+                    "growth_direction": -1.0,
+                    "current": "Stable"
+                }
+            ]
+        },
+        {
+            "name": "Flexible lifestage trajectories",
+            "children": [
+                {
+                    "name": "Employment rate by age group (55-64 years group)",
+                    "colname": "level3",
+                    "growth_direction": 1.0,
+                    "current": "Warning"
+                },
+                {
+                    "name": "Search interest: Egg freezing",
+                    "colname": "level3",
+                    "growth_direction": 1.0,
+                    "current": "Stable"
+                },
+                {
+                    "name": "Unmarried to married ratio",
                     "colname": "level3",
                     "growth_direction": -1.0,
                     "current": "Stable"
                 },
                 {
-                    "name": "Google search interest on Maid topic",
+                    "name": "News around career shift and flexible work",
                     "colname": "level3",
-                    "growth_direction": -1.0,
+                    "growth_direction": 1.0,
+                    "current": "Stable"
+                },
+                {
+                    "name": "Market size of online / non-tertiary education",
+                    "colname": "level3",
+                    "growth_direction": 1.0,
+                    "current": "Stable"
+                },
+                {
+                    "name": "Market size of online / non-tertiary education",
+                    "colname": "level3",
+                    "growth_direction": 1.0,
                     "current": "Stable"
                 }
             ]
@@ -116,10 +116,22 @@
             "name": "Growing empowerment of women",
             "children": [
                 {
+                    "name": "Number of countried with female heads of state",
+                    "colname": "level3",
+                    "growth_direction": -1.0,
+                    "current": "Monitor low"
+                },
+                {
                     "name": "Gender pay gap",
                     "colname": "level3",
                     "growth_direction": 1.0,
                     "current": "Monitor"
+                },
+                {
+                    "name": "News around gender quotas",
+                    "colname": "level3",
+                    "growth_direction": -1.0,
+                    "current": "Monitor low"
                 },
                 {
                     "name": "News about shifts in maternity norms (benefit, laws, gender roles)",
@@ -132,24 +144,18 @@
                     "colname": "level3",
                     "growth_direction": -1.0,
                     "current": "Stable"
-                },
-                {
-                    "name": "News around gender quotas",
-                    "colname": "level3",
-                    "growth_direction": -1.0,
-                    "current": "Monitor low"
-                },
-                {
-                    "name": "Number of countried with female heads of state",
-                    "colname": "level3",
-                    "growth_direction": -1.0,
-                    "current": "Monitor low"
                 }
             ]
         },
         {
             "name": "Growing lgbtqia+ movement",
             "children": [
+                {
+                    "name": "Consumer search interest in the 'coming out' topic",
+                    "colname": "level3",
+                    "growth_direction": -1.0,
+                    "current": "Stable"
+                },
                 {
                     "name": "Number of countries where same sex marriage is legal",
                     "colname": "level3",
@@ -163,21 +169,15 @@
                     "current": "Stable"
                 },
                 {
-                    "name": "Public opinion polls on LGBTQ community",
-                    "colname": "level3",
-                    "growth_direction": 1.0,
-                    "current": "Stable"
-                },
-                {
                     "name": "LGBT equality Index",
                     "colname": "level3",
                     "growth_direction": -1.0,
                     "current": "Stable"
                 },
                 {
-                    "name": "Consumer search interest in the 'coming out' topic",
+                    "name": "Public opinion polls on LGBTQ community",
                     "colname": "level3",
-                    "growth_direction": -1.0,
+                    "growth_direction": 1.0,
                     "current": "Stable"
                 }
             ]
