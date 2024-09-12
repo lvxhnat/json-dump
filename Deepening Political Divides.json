@@ -2,49 +2,8 @@
     "name": "Deepening Political Divides",
     "children": [
         {
-            "name": "Political activism and civil unrest",
-            "children": [
-                {
-                    "name": "Voter turnout",
-                    "colname": "level3",
-                    "growth_direction": 1.0,
-                    "current": "Stable"
-                },
-                {
-                    "name": "Protest tracker",
-                    "colname": "level3",
-                    "growth_direction": 1.0,
-                    "current": "Warning"
-                },
-                {
-                    "name": "Political Freedom Index",
-                    "colname": "level3",
-                    "growth_direction": -1.0,
-                    "current": "Stable"
-                },
-                {
-                    "name": "Corruption perception index",
-                    "colname": "level3",
-                    "growth_direction": -1.0,
-                    "current": "Monitor low"
-                },
-                {
-                    "name": "Confirmed killings of human right defenders, journalist and trade unionists",
-                    "colname": "level3",
-                    "growth_direction": -1.0,
-                    "current": "Stable"
-                }
-            ]
-        },
-        {
             "name": "Fading traction for democratic governance worldwide",
             "children": [
-                {
-                    "name": "Voter turnout",
-                    "colname": "level3",
-                    "growth_direction": 1.0,
-                    "current": "Stable"
-                },
                 {
                     "name": "Democracy index",
                     "colname": "level3",
@@ -52,10 +11,10 @@
                     "current": "Warning"
                 },
                 {
-                    "name": "News about political polarisation, democratic failures and coups",
+                    "name": "World Press Freedom Index",
                     "colname": "level3",
-                    "growth_direction": 1.0,
-                    "current": "Stable"
+                    "growth_direction": -1.0,
+                    "current": "Monitor"
                 },
                 {
                     "name": "Civil liberties index",
@@ -64,10 +23,144 @@
                     "current": "Stable"
                 },
                 {
-                    "name": "World Press Freedom Index",
+                    "name": "News about political polarisation, democratic failures and coups",
+                    "colname": "level3",
+                    "growth_direction": 1.0,
+                    "current": "Stable"
+                },
+                {
+                    "name": "Voter turnout",
+                    "colname": "level3",
+                    "growth_direction": 1.0,
+                    "current": "Stable"
+                }
+            ]
+        },
+        {
+            "name": "Growing destabilization of trade relationships",
+            "children": [
+                {
+                    "name": "Third party logistics cost",
+                    "colname": "level3",
+                    "growth_direction": -1.0,
+                    "current": "Monitor low"
+                },
+                {
+                    "name": "Economy Policy Uncertainty",
+                    "colname": "level3",
+                    "growth_direction": 1.0,
+                    "current": "Monitor low"
+                },
+                {
+                    "name": "Exports of goods and services (current US$)",
+                    "colname": "level3",
+                    "growth_direction": 1.0,
+                    "current": "Stable"
+                },
+                {
+                    "name": "Global supply chain pressure index",
+                    "colname": "level3",
+                    "growth_direction": -1.0,
+                    "current": "Stable"
+                }
+            ]
+        },
+        {
+            "name": "Growing infuence of gen z",
+            "children": [
+                {
+                    "name": "Number of academic papers written about Gen Z",
+                    "colname": "level3",
+                    "growth_direction": 1.0,
+                    "current": "Monitor"
+                },
+                {
+                    "name": "Unemployment rates by age group 15-24",
+                    "colname": "level3",
+                    "growth_direction": -1.0,
+                    "current": "Stable"
+                },
+                {
+                    "name": "News about Gen Z politicians, CEOs and positions of influence",
+                    "colname": "level3",
+                    "growth_direction": 1.0,
+                    "current": "Stable"
+                },
+                {
+                    "name": "News about Gen Z involvement in activism & protest",
+                    "colname": "level3",
+                    "growth_direction": 1.0,
+                    "current": "Stable"
+                },
+                {
+                    "name": "Proportion of working age population that is Gen Z (number of gen z/working age population)",
+                    "colname": "level3",
+                    "growth_direction": -1.0,
+                    "current": "Stable"
+                }
+            ]
+        },
+        {
+            "name": "Increasingly militarised world",
+            "children": [
+                {
+                    "name": "Arms imports",
+                    "colname": "level3",
+                    "growth_direction": 1.0,
+                    "current": "Warning"
+                },
+                {
+                    "name": "Military spending (net amount)",
+                    "colname": "level3",
+                    "growth_direction": 1.0,
+                    "current": "Warning"
+                },
+                {
+                    "name": "Military spending (% of gdp)",
                     "colname": "level3",
                     "growth_direction": -1.0,
                     "current": "Monitor"
+                },
+                {
+                    "name": "News about military alliances (NATO, AUKUS)",
+                    "colname": "level3",
+                    "growth_direction": 1.0,
+                    "current": "Stable"
+                }
+            ]
+        },
+        {
+            "name": "Political activism and civil unrest",
+            "children": [
+                {
+                    "name": "Protest tracker",
+                    "colname": "level3",
+                    "growth_direction": 1.0,
+                    "current": "Warning"
+                },
+                {
+                    "name": "Corruption perception index",
+                    "colname": "level3",
+                    "growth_direction": -1.0,
+                    "current": "Monitor low"
+                },
+                {
+                    "name": "Political Freedom Index",
+                    "colname": "level3",
+                    "growth_direction": -1.0,
+                    "current": "Stable"
+                },
+                {
+                    "name": "Confirmed killings of human right defenders, journalist and trade unionists",
+                    "colname": "level3",
+                    "growth_direction": -1.0,
+                    "current": "Stable"
+                },
+                {
+                    "name": "Voter turnout",
+                    "colname": "level3",
+                    "growth_direction": 1.0,
+                    "current": "Stable"
                 }
             ]
         },
@@ -87,9 +180,9 @@
                     "current": "Warning"
                 },
                 {
-                    "name": "News about military provocations (coups, invasions, war, nuclear missile tests)",
+                    "name": "Terrorism deaths",
                     "colname": "level3",
-                    "growth_direction": 1.0,
+                    "growth_direction": -1.0,
                     "current": "Stable"
                 },
                 {
@@ -99,102 +192,9 @@
                     "current": "Stable"
                 },
                 {
-                    "name": "Terrorism deaths",
-                    "colname": "level3",
-                    "growth_direction": -1.0,
-                    "current": "Stable"
-                }
-            ]
-        },
-        {
-            "name": "Growing infuence of gen z",
-            "children": [
-                {
-                    "name": "Number of academic papers written about Gen Z",
+                    "name": "News about military provocations (coups, invasions, war, nuclear missile tests)",
                     "colname": "level3",
                     "growth_direction": 1.0,
-                    "current": "Monitor"
-                },
-                {
-                    "name": "News about Gen Z politicians, CEOs and positions of influence",
-                    "colname": "level3",
-                    "growth_direction": 1.0,
-                    "current": "Stable"
-                },
-                {
-                    "name": "News about Gen Z involvement in activism & protest",
-                    "colname": "level3",
-                    "growth_direction": 1.0,
-                    "current": "Stable"
-                },
-                {
-                    "name": "Proportion of working age population that is Gen Z (number of gen z/working age population)",
-                    "colname": "level3",
-                    "growth_direction": -1.0,
-                    "current": "Stable"
-                },
-                {
-                    "name": "Unemployment rates by age group 15-24",
-                    "colname": "level3",
-                    "growth_direction": -1.0,
-                    "current": "Stable"
-                }
-            ]
-        },
-        {
-            "name": "Increasingly militarised world",
-            "children": [
-                {
-                    "name": "Military spending (net amount)",
-                    "colname": "level3",
-                    "growth_direction": 1.0,
-                    "current": "Warning"
-                },
-                {
-                    "name": "Arms imports",
-                    "colname": "level3",
-                    "growth_direction": 1.0,
-                    "current": "Warning"
-                },
-                {
-                    "name": "News about military alliances (NATO, AUKUS)",
-                    "colname": "level3",
-                    "growth_direction": 1.0,
-                    "current": "Stable"
-                },
-                {
-                    "name": "Military spending (% of gdp)",
-                    "colname": "level3",
-                    "growth_direction": -1.0,
-                    "current": "Monitor"
-                }
-            ]
-        },
-        {
-            "name": "Growing destabilization of trade relationships",
-            "children": [
-                {
-                    "name": "Exports of goods and services (current US$)",
-                    "colname": "level3",
-                    "growth_direction": 1.0,
-                    "current": "Stable"
-                },
-                {
-                    "name": "Economy Policy Uncertainty",
-                    "colname": "level3",
-                    "growth_direction": 1.0,
-                    "current": "Monitor low"
-                },
-                {
-                    "name": "Third party logistics cost",
-                    "colname": "level3",
-                    "growth_direction": -1.0,
-                    "current": "Monitor low"
-                },
-                {
-                    "name": "Global supply chain pressure index",
-                    "colname": "level3",
-                    "growth_direction": -1.0,
                     "current": "Stable"
                 }
             ]
@@ -202,12 +202,6 @@
         {
             "name": "Rising inflation and cost of living crisis",
             "children": [
-                {
-                    "name": "Producer Price index",
-                    "colname": "level3",
-                    "growth_direction": 1.0,
-                    "current": "Stable"
-                },
                 {
                     "name": "Monthly fuel energy price index",
                     "colname": "level3",
@@ -218,6 +212,12 @@
                     "name": "Consumer Price Index",
                     "colname": "level3",
                     "growth_direction": -1.0,
+                    "current": "Stable"
+                },
+                {
+                    "name": "Producer Price index",
+                    "colname": "level3",
+                    "growth_direction": 1.0,
                     "current": "Stable"
                 },
                 {
