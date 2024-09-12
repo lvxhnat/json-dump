@@ -2,10 +2,51 @@
     "name": "Health Refocused",
     "children": [
         {
+            "name": "Constant and ubiquitous social connectivity",
+            "children": [
+                {
+                    "name": "IOT market size",
+                    "colname": "level3",
+                    "growth_direction": 1.0,
+                    "current": "Warning"
+                },
+                {
+                    "name": "Smartphone market size",
+                    "colname": "level3",
+                    "growth_direction": 1.0,
+                    "current": "Monitor"
+                },
+                {
+                    "name": "Time spent online",
+                    "colname": "level3",
+                    "growth_direction": -1.0,
+                    "current": "Monitor low"
+                },
+                {
+                    "name": "Social Networking app downloads",
+                    "colname": "level3",
+                    "growth_direction": 1.0,
+                    "current": "Stable"
+                },
+                {
+                    "name": "Influencer advertising market size",
+                    "colname": "level3",
+                    "growth_direction": 1.0,
+                    "current": "Stable"
+                }
+            ]
+        },
+        {
             "name": "Growing concerns on food ingredients",
             "children": [
                 {
                     "name": "Academic papers on health risks associated with Ultra Processed Foods (UPFs)",
+                    "colname": "level3",
+                    "growth_direction": 1.0,
+                    "current": "Warning"
+                },
+                {
+                    "name": "Hyper-processed food market size",
                     "colname": "level3",
                     "growth_direction": 1.0,
                     "current": "Warning"
@@ -17,15 +58,21 @@
                     "current": "Monitor low"
                 },
                 {
+                    "name": "Headlines on Regulation mentioning forever chemical PFAS",
+                    "colname": "level3",
+                    "growth_direction": 1.0,
+                    "current": "Monitor low"
+                },
+                {
                     "name": "Headlines on Regulatory mentioning on LNCs, Aspartame",
                     "colname": "level3",
                     "growth_direction": 1.0,
                     "current": "Monitor low"
                 },
                 {
-                    "name": "Headlines on Regulation mentioning forever chemical PFAS",
+                    "name": "Academic papers on health risks associated with pesticide and antibacterial residue in food",
                     "colname": "level3",
-                    "growth_direction": 1.0,
+                    "growth_direction": -1.0,
                     "current": "Monitor low"
                 },
                 {
@@ -33,18 +80,135 @@
                     "colname": "level3",
                     "growth_direction": 1.0,
                     "current": "Stable"
-                },
+                }
+            ]
+        },
+        {
+            "name": "Growing consumer focus on health & wellness",
+            "children": [
                 {
-                    "name": "Hyper-processed food market size",
+                    "name": "Wearables and trackers market revenue",
                     "colname": "level3",
                     "growth_direction": 1.0,
                     "current": "Warning"
                 },
                 {
-                    "name": "Academic papers on health risks associated with pesticide and antibacterial residue in food",
+                    "name": "Consumer search interest in GLP-1s",
+                    "colname": "level3",
+                    "growth_direction": 1.0,
+                    "current": "Warning"
+                },
+                {
+                    "name": "Supplement market size",
+                    "colname": "level3",
+                    "growth_direction": 1.0,
+                    "current": "Warning"
+                },
+                {
+                    "name": "Organic product food share",
                     "colname": "level3",
                     "growth_direction": -1.0,
                     "current": "Monitor low"
+                },
+                {
+                    "name": "Market Size of Nutrition Apps",
+                    "colname": "level3",
+                    "growth_direction": 1.0,
+                    "current": "Stable"
+                },
+                {
+                    "name": "Google Search Interest on Semaglutide topic",
+                    "colname": "level3",
+                    "growth_direction": 1.0,
+                    "current": "Stable"
+                },
+                {
+                    "name": "Google Search Interest around health benefits within F&B industry",
+                    "colname": "level3",
+                    "growth_direction": 1.0,
+                    "current": "Stable"
+                },
+                {
+                    "name": "Google Search Interest around Alternative Medicine",
+                    "colname": "level3",
+                    "growth_direction": 1.0,
+                    "current": "Stable"
+                }
+            ]
+        },
+        {
+            "name": "Growing infuence of gen z",
+            "children": [
+                {
+                    "name": "Number of academic papers written about Gen Z",
+                    "colname": "level3",
+                    "growth_direction": 1.0,
+                    "current": "Monitor"
+                },
+                {
+                    "name": "News about Gen Z involvement in activism & protest",
+                    "colname": "level3",
+                    "growth_direction": 1.0,
+                    "current": "Stable"
+                },
+                {
+                    "name": "News about Gen Z politicians, CEOs and positions of influence",
+                    "colname": "level3",
+                    "growth_direction": 1.0,
+                    "current": "Stable"
+                },
+                {
+                    "name": "Unemployment rates by age group 15-24",
+                    "colname": "level3",
+                    "growth_direction": -1.0,
+                    "current": "Stable"
+                },
+                {
+                    "name": "Proportion of working age population that is Gen Z (number of gen z/working age population)",
+                    "colname": "level3",
+                    "growth_direction": -1.0,
+                    "current": "Stable"
+                }
+            ]
+        },
+        {
+            "name": "Increasing emphasis on plant-based foods",
+            "children": [
+                {
+                    "name": "Headlines on Synthetic Biology (GMO, Cultivated Meat, etc)",
+                    "colname": "level3",
+                    "growth_direction": 1.0,
+                    "current": "Stable"
+                },
+                {
+                    "name": "Number of patents filed in plant-based",
+                    "colname": "level3",
+                    "growth_direction": 1.0,
+                    "current": "Stable"
+                },
+                {
+                    "name": "google search trend for animal-free, cruelty-free, vegan",
+                    "colname": "level3",
+                    "growth_direction": -1.0,
+                    "current": "Stable"
+                },
+                {
+                    "name": "Google search interest in Microbiome topic",
+                    "colname": "level3",
+                    "growth_direction": 1.0,
+                    "current": "Stable"
+                },
+                {
+                    "name": "search interest in plant based diet / meat / protein",
+                    "colname": "level3",
+                    "growth_direction": -1.0,
+                    "current": "Stable"
+                },
+                {
+                    "name": "Meat Substitute Consumption/ Market Size",
+                    "colname": "level3",
+                    "growth_direction": 1.0,
+                    "current": "Stable"
                 }
             ]
         },
@@ -58,7 +222,19 @@
                     "current": "Warning"
                 },
                 {
-                    "name": "Digital health revenue",
+                    "name": "R&D spend in medical technology",
+                    "colname": "level3",
+                    "growth_direction": 1.0,
+                    "current": "Stable"
+                },
+                {
+                    "name": "Ratio of OTC pharmaceuticals (preventative) to Prescription Drugs (reactive)",
+                    "colname": "level3",
+                    "growth_direction": 1.0,
+                    "current": "Stable"
+                },
+                {
+                    "name": "Revenue in medical technology (include Cardiology, Diagnostic imaging, Orthopedic, Ophtalmic, Surgery, and other)",
                     "colname": "level3",
                     "growth_direction": 1.0,
                     "current": "Stable"
@@ -76,56 +252,9 @@
                     "current": "Stable"
                 },
                 {
-                    "name": "R&D spend in medical technology",
+                    "name": "Digital health revenue",
                     "colname": "level3",
                     "growth_direction": 1.0,
-                    "current": "Stable"
-                },
-                {
-                    "name": "Revenue in medical technology (include Cardiology, Diagnostic imaging, Orthopedic, Ophtalmic, Surgery, and other)",
-                    "colname": "level3",
-                    "growth_direction": 1.0,
-                    "current": "Stable"
-                },
-                {
-                    "name": "Ratio of OTC pharmaceuticals (preventative) to Prescription Drugs (reactive)",
-                    "colname": "level3",
-                    "growth_direction": 1.0,
-                    "current": "Stable"
-                }
-            ]
-        },
-        {
-            "name": "Growing infuence of gen z",
-            "children": [
-                {
-                    "name": "Number of academic papers written about Gen Z",
-                    "colname": "level3",
-                    "growth_direction": 1.0,
-                    "current": "Monitor"
-                },
-                {
-                    "name": "News about Gen Z politicians, CEOs and positions of influence",
-                    "colname": "level3",
-                    "growth_direction": 1.0,
-                    "current": "Stable"
-                },
-                {
-                    "name": "News about Gen Z involvement in activism & protest",
-                    "colname": "level3",
-                    "growth_direction": 1.0,
-                    "current": "Stable"
-                },
-                {
-                    "name": "Proportion of working age population that is Gen Z (number of gen z/working age population)",
-                    "colname": "level3",
-                    "growth_direction": -1.0,
-                    "current": "Stable"
-                },
-                {
-                    "name": "Unemployment rates by age group 15-24",
-                    "colname": "level3",
-                    "growth_direction": -1.0,
                     "current": "Stable"
                 }
             ]
@@ -140,16 +269,22 @@
                     "current": "Warning"
                 },
                 {
-                    "name": "Google Search Interest on Continuous glucose monitor topic",
-                    "colname": "level3",
-                    "growth_direction": 1.0,
-                    "current": "Stable"
-                },
-                {
                     "name": "Hyper-processed food market size",
                     "colname": "level3",
                     "growth_direction": 1.0,
                     "current": "Warning"
+                },
+                {
+                    "name": "Death from cancer & heart disease",
+                    "colname": "level3",
+                    "growth_direction": -1.0,
+                    "current": "Monitor low"
+                },
+                {
+                    "name": "Google Search Interest on Continuous glucose monitor topic",
+                    "colname": "level3",
+                    "growth_direction": 1.0,
+                    "current": "Stable"
                 },
                 {
                     "name": "Patents on Polygenic Risk Scores",
@@ -161,141 +296,6 @@
                     "name": "Rising healthcare cost",
                     "colname": "level3",
                     "growth_direction": 1.0,
-                    "current": "Stable"
-                },
-                {
-                    "name": "Death from cancer & heart disease",
-                    "colname": "level3",
-                    "growth_direction": -1.0,
-                    "current": "Monitor low"
-                }
-            ]
-        },
-        {
-            "name": "Constant and ubiquitous social connectivity",
-            "children": [
-                {
-                    "name": "Influencer advertising market size",
-                    "colname": "level3",
-                    "growth_direction": 1.0,
-                    "current": "Stable"
-                },
-                {
-                    "name": "IOT market size",
-                    "colname": "level3",
-                    "growth_direction": 1.0,
-                    "current": "Warning"
-                },
-                {
-                    "name": "Social Networking app downloads",
-                    "colname": "level3",
-                    "growth_direction": 1.0,
-                    "current": "Stable"
-                },
-                {
-                    "name": "Smartphone market size",
-                    "colname": "level3",
-                    "growth_direction": 1.0,
-                    "current": "Monitor"
-                },
-                {
-                    "name": "Time spent online",
-                    "colname": "level3",
-                    "growth_direction": -1.0,
-                    "current": "Monitor low"
-                }
-            ]
-        },
-        {
-            "name": "Growing consumer focus on health & wellness",
-            "children": [
-                {
-                    "name": "Wearables and trackers market revenue",
-                    "colname": "level3",
-                    "growth_direction": 1.0,
-                    "current": "Warning"
-                },
-                {
-                    "name": "Market Size of Nutrition Apps",
-                    "colname": "level3",
-                    "growth_direction": 1.0,
-                    "current": "Stable"
-                },
-                {
-                    "name": "Google Search Interest around health benefits within F&B industry",
-                    "colname": "level3",
-                    "growth_direction": 1.0,
-                    "current": "Stable"
-                },
-                {
-                    "name": "Consumer search interest in GLP-1s",
-                    "colname": "level3",
-                    "growth_direction": 1.0,
-                    "current": "Warning"
-                },
-                {
-                    "name": "Google Search Interest on Semaglutide topic",
-                    "colname": "level3",
-                    "growth_direction": 1.0,
-                    "current": "Stable"
-                },
-                {
-                    "name": "Supplement market size",
-                    "colname": "level3",
-                    "growth_direction": 1.0,
-                    "current": "Warning"
-                },
-                {
-                    "name": "Google Search Interest around Alternative Medicine",
-                    "colname": "level3",
-                    "growth_direction": 1.0,
-                    "current": "Stable"
-                },
-                {
-                    "name": "Organic product food share",
-                    "colname": "level3",
-                    "growth_direction": -1.0,
-                    "current": "Monitor low"
-                }
-            ]
-        },
-        {
-            "name": "Increasing emphasis on plant-based foods",
-            "children": [
-                {
-                    "name": "Google search interest in Microbiome topic",
-                    "colname": "level3",
-                    "growth_direction": 1.0,
-                    "current": "Stable"
-                },
-                {
-                    "name": "Meat Substitute Consumption/ Market Size",
-                    "colname": "level3",
-                    "growth_direction": 1.0,
-                    "current": "Stable"
-                },
-                {
-                    "name": "Number of patents filed in plant-based",
-                    "colname": "level3",
-                    "growth_direction": 1.0,
-                    "current": "Stable"
-                },
-                {
-                    "name": "Headlines on Synthetic Biology (GMO, Cultivated Meat, etc)",
-                    "colname": "level3",
-                    "growth_direction": 1.0,
-                    "current": "Stable"
-                },
-                {
-                    "name": "search interest in plant based diet / meat / protein",
-                    "colname": "level3",
-                    "growth_direction": -1.0,
-                    "current": "Stable"
-                },
-                {
-                    "name": "google search trend for animal-free, cruelty-free, vegan",
-                    "colname": "level3",
-                    "growth_direction": -1.0,
                     "current": "Stable"
                 }
             ]
