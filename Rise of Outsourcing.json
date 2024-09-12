@@ -2,6 +2,41 @@
     "name": "Rise of Outsourcing",
     "children": [
         {
+            "name": "Constant and ubiquitous social connectivity",
+            "children": [
+                {
+                    "name": "IOT market size",
+                    "colname": "level3",
+                    "growth_direction": 1.0,
+                    "current": "Warning"
+                },
+                {
+                    "name": "Smartphone market size",
+                    "colname": "level3",
+                    "growth_direction": 1.0,
+                    "current": "Monitor"
+                },
+                {
+                    "name": "Time spent online",
+                    "colname": "level3",
+                    "growth_direction": -1.0,
+                    "current": "Monitor low"
+                },
+                {
+                    "name": "Influencer advertising market size",
+                    "colname": "level3",
+                    "growth_direction": 1.0,
+                    "current": "Stable"
+                },
+                {
+                    "name": "Social Networking app downloads",
+                    "colname": "level3",
+                    "growth_direction": 1.0,
+                    "current": "Stable"
+                }
+            ]
+        },
+        {
             "name": "Growing application of ai",
             "children": [
                 {
@@ -11,13 +46,13 @@
                     "current": "Warning"
                 },
                 {
-                    "name": "Papers: AI applications for non-mainstream users for elders vs AI for kids vs AI for marginalised communities",
+                    "name": "Google scholar research on AI impacts",
                     "colname": "level3",
                     "growth_direction": 1.0,
-                    "current": "Stable"
+                    "current": "Monitor"
                 },
                 {
-                    "name": "Google scholar research on AI impacts",
+                    "name": "AI Market Size",
                     "colname": "level3",
                     "growth_direction": 1.0,
                     "current": "Monitor"
@@ -29,10 +64,39 @@
                     "current": "Stable"
                 },
                 {
-                    "name": "AI Market Size",
+                    "name": "Papers: AI applications for non-mainstream users for elders vs AI for kids vs AI for marginalised communities",
                     "colname": "level3",
-                    "growth_direction": -1.0,
-                    "current": "Monitor low"
+                    "growth_direction": 1.0,
+                    "current": "Stable"
+                }
+            ]
+        },
+        {
+            "name": "Growing importance of experiential retail",
+            "children": [
+                {
+                    "name": "Market size of AR & VR",
+                    "colname": "level3",
+                    "growth_direction": 1.0,
+                    "current": "Warning"
+                },
+                {
+                    "name": "News about pop-up stores, temporary retail installations, concept stores and experiential retail",
+                    "colname": "level3",
+                    "growth_direction": 1.0,
+                    "current": "Stable"
+                },
+                {
+                    "name": "Google trends for 'experiential marketing' topic",
+                    "colname": "level3",
+                    "growth_direction": 1.0,
+                    "current": "Stable"
+                },
+                {
+                    "name": "Market size of Metaverse eCommerce",
+                    "colname": "level3",
+                    "growth_direction": 1.0,
+                    "current": "Stable"
                 }
             ]
         },
@@ -58,13 +122,48 @@
                     "current": "Stable"
                 },
                 {
-                    "name": "Proportion of working age population that is Gen Z (number of gen z/working age population)",
+                    "name": "Unemployment rates by age group 15-24",
                     "colname": "level3",
                     "growth_direction": -1.0,
                     "current": "Stable"
                 },
                 {
-                    "name": "Unemployment rates by age group 15-24",
+                    "name": "Proportion of working age population that is Gen Z (number of gen z/working age population)",
+                    "colname": "level3",
+                    "growth_direction": -1.0,
+                    "current": "Stable"
+                }
+            ]
+        },
+        {
+            "name": "Impact of dominant digital platforms",
+            "children": [
+                {
+                    "name": "News about data breaches, privacy violations, and related incidents that can raise concerns about data handling practices",
+                    "colname": "level3",
+                    "growth_direction": 1.0,
+                    "current": "Warning"
+                },
+                {
+                    "name": "Time spent online",
+                    "colname": "level3",
+                    "growth_direction": -1.0,
+                    "current": "Monitor low"
+                },
+                {
+                    "name": "Advertising Revenue from social media",
+                    "colname": "level3",
+                    "growth_direction": 1.0,
+                    "current": "Monitor low"
+                },
+                {
+                    "name": "Social Networking app downloads",
+                    "colname": "level3",
+                    "growth_direction": 1.0,
+                    "current": "Stable"
+                },
+                {
+                    "name": "Investment + Acquisition by FAANG",
                     "colname": "level3",
                     "growth_direction": -1.0,
                     "current": "Stable"
@@ -81,10 +180,10 @@
                     "current": "Monitor"
                 },
                 {
-                    "name": "Market size of digital media (ebooks, video games, digital music)",
+                    "name": "Consumer search data on digital assets (Crypto, NFTs)",
                     "colname": "level3",
-                    "growth_direction": 1.0,
-                    "current": "Stable"
+                    "growth_direction": -1.0,
+                    "current": "Monitor low"
                 },
                 {
                     "name": "Market size of cloud storage",
@@ -99,74 +198,10 @@
                     "current": "Stable"
                 },
                 {
-                    "name": "Consumer search data on digital assets (Crypto, NFTs)",
-                    "colname": "level3",
-                    "growth_direction": -1.0,
-                    "current": "Monitor low"
-                }
-            ]
-        },
-        {
-            "name": "Growing importance of experiential retail",
-            "children": [
-                {
-                    "name": "Market size of AR & VR",
-                    "colname": "level3",
-                    "growth_direction": 1.0,
-                    "current": "Warning"
-                },
-                {
-                    "name": "Market size of Metaverse eCommerce",
+                    "name": "Market size of digital media (ebooks, video games, digital music)",
                     "colname": "level3",
                     "growth_direction": 1.0,
                     "current": "Stable"
-                },
-                {
-                    "name": "News about pop-up stores, temporary retail installations, concept stores and experiential retail",
-                    "colname": "level3",
-                    "growth_direction": 1.0,
-                    "current": "Stable"
-                },
-                {
-                    "name": "Google trends for 'experiential marketing' topic",
-                    "colname": "level3",
-                    "growth_direction": 1.0,
-                    "current": "Stable"
-                }
-            ]
-        },
-        {
-            "name": "Constant and ubiquitous social connectivity",
-            "children": [
-                {
-                    "name": "Influencer advertising market size",
-                    "colname": "level3",
-                    "growth_direction": 1.0,
-                    "current": "Stable"
-                },
-                {
-                    "name": "IOT market size",
-                    "colname": "level3",
-                    "growth_direction": 1.0,
-                    "current": "Warning"
-                },
-                {
-                    "name": "Social Networking app downloads",
-                    "colname": "level3",
-                    "growth_direction": 1.0,
-                    "current": "Stable"
-                },
-                {
-                    "name": "Smartphone market size",
-                    "colname": "level3",
-                    "growth_direction": 1.0,
-                    "current": "Monitor"
-                },
-                {
-                    "name": "Time spent online",
-                    "colname": "level3",
-                    "growth_direction": -1.0,
-                    "current": "Monitor low"
                 }
             ]
         },
@@ -174,62 +209,27 @@
             "name": "Rising e-commerce share of retail",
             "children": [
                 {
-                    "name": "IOT smart appliances market size",
-                    "colname": "level3",
-                    "growth_direction": 1.0,
-                    "current": "Monitor"
-                },
-                {
                     "name": "News on digital wallets, mobile payment apps, and contactless payment technologies",
                     "colname": "level3",
                     "growth_direction": 1.0,
                     "current": "Warning"
                 },
                 {
-                    "name": "Total market size in Online Food Delivery: Quick commerce",
-                    "colname": "level3",
-                    "growth_direction": 1.0,
-                    "current": "Stable"
-                },
-                {
                     "name": "Online sales revenue",
                     "colname": "level3",
                     "growth_direction": -1.0,
                     "current": "Monitor low"
-                }
-            ]
-        },
-        {
-            "name": "Impact of dominant digital platforms",
-            "children": [
+                },
                 {
-                    "name": "News about data breaches, privacy violations, and related incidents that can raise concerns about data handling practices",
+                    "name": "IOT smart appliances market size",
                     "colname": "level3",
                     "growth_direction": 1.0,
-                    "current": "Warning"
+                    "current": "Monitor"
                 },
                 {
-                    "name": "Social Networking app downloads",
+                    "name": "Total market size in Online Food Delivery: Quick commerce",
                     "colname": "level3",
                     "growth_direction": 1.0,
-                    "current": "Stable"
-                },
-                {
-                    "name": "Advertising Revenue from social media",
-                    "colname": "level3",
-                    "growth_direction": 1.0,
-                    "current": "Monitor low"
-                },
-                {
-                    "name": "Time spent online",
-                    "colname": "level3",
-                    "growth_direction": -1.0,
-                    "current": "Monitor low"
-                },
-                {
-                    "name": "Investment + Acquisition by FAANG",
-                    "colname": "level3",
-                    "growth_direction": -1.0,
                     "current": "Stable"
                 }
             ]
