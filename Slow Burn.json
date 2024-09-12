@@ -2,19 +2,60 @@
     "name": "Slow Burn",
     "children": [
         {
-            "name": "Increasing impact of climate change",
+            "name": "Circular economy / sustainability",
             "children": [
                 {
-                    "name": "Fossil fuel subsidies",
+                    "name": "EV market size",
                     "colname": "level3",
                     "growth_direction": 1.0,
                     "current": "Warning"
                 },
                 {
-                    "name": "Global monthly temperature anomaly",
+                    "name": "Dow Jones Sustainability World Index",
+                    "colname": "level3",
+                    "growth_direction": -1.0,
+                    "current": "Monitor low"
+                },
+                {
+                    "name": "Recycling rates",
+                    "colname": "level3",
+                    "growth_direction": -1.0,
+                    "current": "Monitor low"
+                },
+                {
+                    "name": "News about sustainability concerns (fridays 4 futures, climate activism)",
                     "colname": "level3",
                     "growth_direction": 1.0,
-                    "current": "Monitor"
+                    "current": "Stable"
+                },
+                {
+                    "name": "News about green finance mechanisms (green bonds, government subsidies)",
+                    "colname": "level3",
+                    "growth_direction": 1.0,
+                    "current": "Stable"
+                },
+                {
+                    "name": "Headlines on Sustainability related Brands Boycott",
+                    "colname": "level3",
+                    "growth_direction": 1.0,
+                    "current": "Stable"
+                },
+                {
+                    "name": "Headlines on Regulations to Combat Greenwashing",
+                    "colname": "level3",
+                    "growth_direction": 1.0,
+                    "current": "Stable"
+                }
+            ]
+        },
+        {
+            "name": "Environmental tipping points",
+            "children": [
+                {
+                    "name": "Academic Papers on Climate Tipping Points",
+                    "colname": "level3",
+                    "growth_direction": 1.0,
+                    "current": "Warning"
                 },
                 {
                     "name": "CO2 emission",
@@ -23,16 +64,57 @@
                     "current": "Warning"
                 },
                 {
-                    "name": "Global atmospheric CO2 levels",
+                    "name": "Ocean Health Index",
                     "colname": "level3",
                     "growth_direction": 1.0,
+                    "current": "Monitor low"
+                },
+                {
+                    "name": "Global monthly temperature anomaly",
+                    "colname": "level3",
+                    "growth_direction": 1.0,
+                    "current": "Monitor"
+                },
+                {
+                    "name": "Maximum sea ice level",
+                    "colname": "level3",
+                    "growth_direction": -1.0,
                     "current": "Stable"
                 },
                 {
-                    "name": "Number of extreme weather events",
+                    "name": "Living planet index",
                     "colname": "level3",
                     "growth_direction": -1.0,
+                    "current": "Stable"
+                }
+            ]
+        },
+        {
+            "name": "Growing concern about water quality and scarcity",
+            "children": [
+                {
+                    "name": "Oceanic Ni\u00f1o Index",
+                    "colname": "level3",
+                    "growth_direction": 1.0,
+                    "current": "Monitor"
+                },
+                {
+                    "name": "News about water stress, draught",
+                    "colname": "level3",
+                    "growth_direction": 1.0,
                     "current": "Monitor low"
+                },
+                {
+                    "name": "Freshwater withdrawal as a proportion of available freshwater resources (%)",
+                    "colname": "level3",
+                    "growth_direction": -1.0,
+                    "current": "Stable"
+                },
+                {
+                    "name": "Renewable water resources per capita",
+                    "colname": "level3",
+                    "growth_direction": -1.0,
+                    "current": "Stable"
                 }
             ]
         },
@@ -46,10 +128,10 @@
                     "current": "Warning"
                 },
                 {
-                    "name": "News about Nationally determined contributions (country level commitments to combat climate change)",
+                    "name": "Green bonds per year",
                     "colname": "level3",
                     "growth_direction": 1.0,
-                    "current": "Stable"
+                    "current": "Monitor"
                 },
                 {
                     "name": "Headlines on Plastic Reduction and Plastic Regulation",
@@ -70,18 +152,24 @@
                     "current": "Stable"
                 },
                 {
-                    "name": "Green bonds per year",
+                    "name": "News about Nationally determined contributions (country level commitments to combat climate change)",
                     "colname": "level3",
                     "growth_direction": 1.0,
-                    "current": "Monitor"
+                    "current": "Stable"
                 }
             ]
         },
         {
-            "name": "Environmental tipping points",
+            "name": "Increasing impact of climate change",
             "children": [
                 {
-                    "name": "Academic Papers on Climate Tipping Points",
+                    "name": "CO2 emission",
+                    "colname": "level3",
+                    "growth_direction": 1.0,
+                    "current": "Warning"
+                },
+                {
+                    "name": "Fossil fuel subsidies",
                     "colname": "level3",
                     "growth_direction": 1.0,
                     "current": "Warning"
@@ -93,103 +181,15 @@
                     "current": "Monitor"
                 },
                 {
-                    "name": "CO2 emission",
-                    "colname": "level3",
-                    "growth_direction": 1.0,
-                    "current": "Warning"
-                },
-                {
-                    "name": "Ocean Health Index",
-                    "colname": "level3",
-                    "growth_direction": 1.0,
-                    "current": "Monitor low"
-                },
-                {
-                    "name": "Maximum sea ice level",
-                    "colname": "level3",
-                    "growth_direction": -1.0,
-                    "current": "Stable"
-                },
-                {
-                    "name": "Living planet index",
-                    "colname": "level3",
-                    "growth_direction": -1.0,
-                    "current": "Stable"
-                }
-            ]
-        },
-        {
-            "name": "Circular economy / sustainability",
-            "children": [
-                {
-                    "name": "EV market size",
-                    "colname": "level3",
-                    "growth_direction": 1.0,
-                    "current": "Warning"
-                },
-                {
-                    "name": "Headlines on Regulations to Combat Greenwashing",
-                    "colname": "level3",
-                    "growth_direction": 1.0,
-                    "current": "Stable"
-                },
-                {
-                    "name": "Headlines on Sustainability related Brands Boycott",
-                    "colname": "level3",
-                    "growth_direction": 1.0,
-                    "current": "Stable"
-                },
-                {
-                    "name": "News about green finance mechanisms (green bonds, government subsidies)",
-                    "colname": "level3",
-                    "growth_direction": 1.0,
-                    "current": "Stable"
-                },
-                {
-                    "name": "News about sustainability concerns (fridays 4 futures, climate activism)",
-                    "colname": "level3",
-                    "growth_direction": 1.0,
-                    "current": "Stable"
-                },
-                {
-                    "name": "Recycling rates",
+                    "name": "Number of extreme weather events",
                     "colname": "level3",
                     "growth_direction": -1.0,
                     "current": "Monitor low"
                 },
                 {
-                    "name": "Dow Jones Sustainability World Index",
-                    "colname": "level3",
-                    "growth_direction": -1.0,
-                    "current": "Monitor low"
-                }
-            ]
-        },
-        {
-            "name": "Growing concern about water quality and scarcity",
-            "children": [
-                {
-                    "name": "Oceanic Ni\u00f1o Index",
+                    "name": "Global atmospheric CO2 levels",
                     "colname": "level3",
                     "growth_direction": 1.0,
-                    "current": "Monitor"
-                },
-                {
-                    "name": "News about water stress, draught",
-                    "colname": "level3",
-                    "growth_direction": 1.0,
-                    "current": "Monitor low"
-                },
-                {
-                    "name": "Renewable water resources per capita",
-                    "colname": "level3",
-                    "growth_direction": -1.0,
-                    "current": "Stable"
-                },
-                {
-                    "name": "Freshwater withdrawal as a proportion of available freshwater resources (%)",
-                    "colname": "level3",
-                    "growth_direction": -1.0,
                     "current": "Stable"
                 }
             ]
@@ -197,12 +197,6 @@
         {
             "name": "Increasing noise + light pollution",
             "children": [
-                {
-                    "name": "Papers covering impact of noise and light pollution",
-                    "colname": "level3",
-                    "growth_direction": 1.0,
-                    "current": "Stable"
-                },
                 {
                     "name": "Energy Consumption per Capita",
                     "colname": "level3",
@@ -219,6 +213,12 @@
                     "name": "Sky Brightness Monitoring Network",
                     "colname": "level3",
                     "growth_direction": -1.0,
+                    "current": "Stable"
+                },
+                {
+                    "name": "Papers covering impact of noise and light pollution",
+                    "colname": "level3",
+                    "growth_direction": 1.0,
                     "current": "Stable"
                 }
             ]
