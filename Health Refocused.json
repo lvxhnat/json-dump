@@ -175,6 +175,12 @@
             "name": "Increasing emphasis on plant-based foods",
             "children": [
                 {
+                    "name": "Meat Substitute Consumption/ Market Size",
+                    "colname": "level3",
+                    "growth_direction": 1.0,
+                    "current": "Warning"
+                },
+                {
                     "name": "Headlines on Synthetic Biology (GMO, Cultivated Meat, etc)",
                     "colname": "level3",
                     "growth_direction": 1.0,
@@ -202,12 +208,6 @@
                     "name": "search interest in plant based diet / meat / protein",
                     "colname": "level3",
                     "growth_direction": -1.0,
-                    "current": "Stable"
-                },
-                {
-                    "name": "Meat Substitute Consumption/ Market Size",
-                    "colname": "level3",
-                    "growth_direction": 1.0,
                     "current": "Stable"
                 }
             ]
