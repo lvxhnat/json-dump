@@ -2,6 +2,35 @@
     "name": "Lifestyle Renaissance",
     "children": [
         {
+            "name": "Evolving day parts",
+            "children": [
+                {
+                    "name": "Consumer search of \"24/7\" term",
+                    "colname": "level3",
+                    "growth_direction": 1.0,
+                    "current": "Stable"
+                },
+                {
+                    "name": "News around career shift and flexible work",
+                    "colname": "level3",
+                    "growth_direction": 1.0,
+                    "current": "Stable"
+                },
+                {
+                    "name": "News about universal income",
+                    "colname": "level3",
+                    "growth_direction": 1.0,
+                    "current": "Stable"
+                },
+                {
+                    "name": "News about meals times and frequency",
+                    "colname": "level3",
+                    "growth_direction": 1.0,
+                    "current": "Stable"
+                }
+            ]
+        },
+        {
             "name": "Growing application of ai",
             "children": [
                 {
@@ -11,10 +40,10 @@
                     "current": "Warning"
                 },
                 {
-                    "name": "Papers: AI applications for non-mainstream users for elders vs AI for kids vs AI for marginalised communities",
+                    "name": "AI Market Size",
                     "colname": "level3",
                     "growth_direction": 1.0,
-                    "current": "Stable"
+                    "current": "Monitor"
                 },
                 {
                     "name": "Google scholar research on AI impacts",
@@ -29,77 +58,36 @@
                     "current": "Stable"
                 },
                 {
-                    "name": "AI Market Size",
+                    "name": "Papers: AI applications for non-mainstream users for elders vs AI for kids vs AI for marginalised communities",
                     "colname": "level3",
-                    "growth_direction": -1.0,
-                    "current": "Monitor low"
+                    "growth_direction": 1.0,
+                    "current": "Stable"
                 }
             ]
         },
         {
-            "name": "Tech enabled flexibility",
+            "name": "Rise of anti-digital movement",
             "children": [
                 {
-                    "name": "Revenue of online food delivery",
-                    "colname": "level3",
-                    "growth_direction": 1.0,
-                    "current": "Stable"
-                },
-                {
-                    "name": "News on digital wallets, mobile payment apps, and contactless payment technologies",
-                    "colname": "level3",
-                    "growth_direction": 1.0,
-                    "current": "Warning"
-                },
-                {
-                    "name": "News around work visa scheme",
-                    "colname": "level3",
-                    "growth_direction": 1.0,
-                    "current": "Stable"
-                },
-                {
-                    "name": "Search interest around Remote Work",
-                    "colname": "level3",
-                    "growth_direction": 1.0,
-                    "current": "Stable"
-                },
-                {
-                    "name": "Patents on Intelligent Virtual Assistants",
+                    "name": "Search interest in Digital Detox topic",
                     "colname": "level3",
                     "growth_direction": 1.0,
                     "current": "Monitor low"
                 },
                 {
-                    "name": "Return rate as a percentage of online order-intake",
+                    "name": "Time spent online",
                     "colname": "level3",
                     "growth_direction": -1.0,
                     "current": "Monitor low"
-                }
-            ]
-        },
-        {
-            "name": "Evolving day parts",
-            "children": [
+                },
                 {
-                    "name": "News about meals times and frequency",
+                    "name": "News about app blockers",
                     "colname": "level3",
                     "growth_direction": 1.0,
                     "current": "Stable"
                 },
                 {
-                    "name": "Consumer search of \"24/7\" term",
-                    "colname": "level3",
-                    "growth_direction": 1.0,
-                    "current": "Stable"
-                },
-                {
-                    "name": "News about universal income",
-                    "colname": "level3",
-                    "growth_direction": 1.0,
-                    "current": "Stable"
-                },
-                {
-                    "name": "News around career shift and flexible work",
+                    "name": "News about time offline, tech time off, tech retreats",
                     "colname": "level3",
                     "growth_direction": 1.0,
                     "current": "Stable"
@@ -109,6 +97,18 @@
         {
             "name": "Rise of precarious employment",
             "children": [
+                {
+                    "name": "Total unfilled job vacancies",
+                    "colname": "level3",
+                    "growth_direction": -1.0,
+                    "current": "Monitor low"
+                },
+                {
+                    "name": "Unemployment rates",
+                    "colname": "level3",
+                    "growth_direction": -1.0,
+                    "current": "Stable"
+                },
                 {
                     "name": "News about labour laws, employment protections, trade unions",
                     "colname": "level3",
@@ -126,47 +126,47 @@
                     "colname": "level3",
                     "growth_direction": -1.0,
                     "current": "Stable"
-                },
-                {
-                    "name": "Total unfilled job vacancies",
-                    "colname": "level3",
-                    "growth_direction": -1.0,
-                    "current": "Monitor low"
-                },
-                {
-                    "name": "Unemployment rates",
-                    "colname": "level3",
-                    "growth_direction": -1.0,
-                    "current": "Stable"
                 }
             ]
         },
         {
-            "name": "Rise of anti-digital movement",
+            "name": "Tech enabled flexibility",
             "children": [
                 {
-                    "name": "News about app blockers",
+                    "name": "News on digital wallets, mobile payment apps, and contactless payment technologies",
                     "colname": "level3",
                     "growth_direction": 1.0,
-                    "current": "Stable"
+                    "current": "Warning"
                 },
                 {
-                    "name": "Search interest in Digital Detox topic",
+                    "name": "Patents on Intelligent Virtual Assistants",
                     "colname": "level3",
                     "growth_direction": 1.0,
                     "current": "Monitor low"
                 },
                 {
-                    "name": "News about time offline, tech time off, tech retreats",
-                    "colname": "level3",
-                    "growth_direction": 1.0,
-                    "current": "Stable"
-                },
-                {
-                    "name": "Time spent online",
+                    "name": "Return rate as a percentage of online order-intake",
                     "colname": "level3",
                     "growth_direction": -1.0,
                     "current": "Monitor low"
+                },
+                {
+                    "name": "Revenue of online food delivery",
+                    "colname": "level3",
+                    "growth_direction": 1.0,
+                    "current": "Stable"
+                },
+                {
+                    "name": "Search interest around Remote Work",
+                    "colname": "level3",
+                    "growth_direction": 1.0,
+                    "current": "Stable"
+                },
+                {
+                    "name": "News around work visa scheme",
+                    "colname": "level3",
+                    "growth_direction": 1.0,
+                    "current": "Stable"
                 }
             ]
         }
