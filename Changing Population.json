@@ -104,15 +104,15 @@
             "name": "Flexible lifestage trajectories",
             "children": [
                 {
-                    "name": "Proportion of married females",
-                    "colname": "level3",
-                    "growth_direction": -1.0,
-                    "current": "Stable"
-                },
-                {
                     "name": "Employment rate by age group (55-64 years group)",
                     "colname": "level3",
                     "growth_direction": 1.0,
+                    "current": "Warning"
+                },
+                {
+                    "name": "Proportion of married females",
+                    "colname": "level3",
+                    "growth_direction": -1.0,
                     "current": "Stable"
                 },
                 {
