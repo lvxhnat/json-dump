@@ -11,10 +11,10 @@
                     "current": "Monitor low"
                 },
                 {
-                    "name": "total asset pension as % of GDP",
+                    "name": "Growing market size of care robots",
                     "colname": "level3",
                     "growth_direction": 1.0,
-                    "current": "Monitor low"
+                    "current": "Stable"
                 },
                 {
                     "name": "Search interest around ageing symptoms",
@@ -27,12 +27,6 @@
                     "colname": "level3",
                     "growth_direction": 1.0,
                     "current": "Stable"
-                },
-                {
-                    "name": "Growing market size of care robots",
-                    "colname": "level3",
-                    "growth_direction": 1.0,
-                    "current": "Stable"
                 }
             ]
         },
@@ -40,13 +34,13 @@
             "name": "Changing household structures and relationship models",
             "children": [
                 {
-                    "name": "Average household size",
+                    "name": "Google search interest on Maid topic",
                     "colname": "level3",
                     "growth_direction": -1.0,
                     "current": "Stable"
                 },
                 {
-                    "name": "Fertility rate",
+                    "name": "Average household size",
                     "colname": "level3",
                     "growth_direction": -1.0,
                     "current": "Stable"
@@ -58,7 +52,7 @@
                     "current": "Stable"
                 },
                 {
-                    "name": "Google search interest on Maid topic",
+                    "name": "Fertility rate",
                     "colname": "level3",
                     "growth_direction": -1.0,
                     "current": "Stable"
@@ -81,25 +75,25 @@
                     "current": "Warning"
                 },
                 {
-                    "name": "Smartphone market size",
-                    "colname": "level3",
-                    "growth_direction": 1.0,
-                    "current": "Monitor"
-                },
-                {
                     "name": "Time spent online",
                     "colname": "level3",
                     "growth_direction": -1.0,
                     "current": "Monitor low"
                 },
                 {
-                    "name": "Influencer advertising market size",
+                    "name": "Smartphone market size",
+                    "colname": "level3",
+                    "growth_direction": 1.0,
+                    "current": "Monitor"
+                },
+                {
+                    "name": "Social Networking app downloads",
                     "colname": "level3",
                     "growth_direction": 1.0,
                     "current": "Stable"
                 },
                 {
-                    "name": "Social Networking app downloads",
+                    "name": "Influencer advertising market size",
                     "colname": "level3",
                     "growth_direction": 1.0,
                     "current": "Stable"
@@ -110,10 +104,16 @@
             "name": "Flexible lifestage trajectories",
             "children": [
                 {
+                    "name": "Proportion of married females",
+                    "colname": "level3",
+                    "growth_direction": -1.0,
+                    "current": "Stable"
+                },
+                {
                     "name": "Employment rate by age group (55-64 years group)",
                     "colname": "level3",
                     "growth_direction": 1.0,
-                    "current": "Warning"
+                    "current": "Stable"
                 },
                 {
                     "name": "Market size of online / non-tertiary education",
@@ -138,12 +138,6 @@
                     "colname": "level3",
                     "growth_direction": 1.0,
                     "current": "Stable"
-                },
-                {
-                    "name": "Unmarried to married ratio",
-                    "colname": "level3",
-                    "growth_direction": -1.0,
-                    "current": "Stable"
                 }
             ]
         },
@@ -157,13 +151,13 @@
                     "current": "Warning"
                 },
                 {
-                    "name": "Google scholar research on AI impacts",
+                    "name": "AI Market Size",
                     "colname": "level3",
                     "growth_direction": 1.0,
                     "current": "Monitor"
                 },
                 {
-                    "name": "AI Market Size",
+                    "name": "Google scholar research on AI impacts",
                     "colname": "level3",
                     "growth_direction": 1.0,
                     "current": "Monitor"
@@ -186,7 +180,7 @@
             "name": "Growing consumer focus on health & wellness",
             "children": [
                 {
-                    "name": "Wearables and trackers market revenue",
+                    "name": "Supplement market size",
                     "colname": "level3",
                     "growth_direction": 1.0,
                     "current": "Warning"
@@ -198,7 +192,7 @@
                     "current": "Warning"
                 },
                 {
-                    "name": "Supplement market size",
+                    "name": "Wearables and trackers market revenue",
                     "colname": "level3",
                     "growth_direction": 1.0,
                     "current": "Warning"
@@ -233,6 +227,12 @@
                     "current": "Stable"
                 },
                 {
+                    "name": "Pet food market size",
+                    "colname": "level3",
+                    "growth_direction": 1.0,
+                    "current": "Stable"
+                },
+                {
                     "name": "Google search interest on loneliness",
                     "colname": "level3",
                     "growth_direction": -1.0,
@@ -242,12 +242,6 @@
                     "name": "News coverage of events that propel loneliness (lockdowns, curfews)",
                     "colname": "level3",
                     "growth_direction": -1.0,
-                    "current": "Stable"
-                },
-                {
-                    "name": "Pet food market size",
-                    "colname": "level3",
-                    "growth_direction": 1.0,
                     "current": "Stable"
                 }
             ]
@@ -268,9 +262,9 @@
                     "current": "Monitor low"
                 },
                 {
-                    "name": "Population living below poverty line, $3.20 a day",
+                    "name": "Rising tertiary education",
                     "colname": "level3",
-                    "growth_direction": -1.0,
+                    "growth_direction": 1.0,
                     "current": "Stable"
                 },
                 {
@@ -280,9 +274,9 @@
                     "current": "Stable"
                 },
                 {
-                    "name": "Rising tertiary education",
+                    "name": "Population living below poverty line, $3.20 a day",
                     "colname": "level3",
-                    "growth_direction": 1.0,
+                    "growth_direction": -1.0,
                     "current": "Stable"
                 }
             ]
