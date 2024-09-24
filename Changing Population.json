@@ -122,12 +122,6 @@
                     "current": "Stable"
                 },
                 {
-                    "name": "Market size of online / non-tertiary education",
-                    "colname": "level3",
-                    "growth_direction": 1.0,
-                    "current": "Stable"
-                },
-                {
                     "name": "Search interest: Egg freezing",
                     "colname": "level3",
                     "growth_direction": 1.0,
